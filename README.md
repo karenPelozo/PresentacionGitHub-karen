@@ -1,7 +1,7 @@
  #  **Hola Soy Karen**  # 
  ### *esta es mi primera presentacion en gitHub* ###
 #### esta es una foto mia  \(n 3 n)/ ####
-![fotoPresentacion](src\imagenes\fotoPresentacion.jpeg)
+![fotoPresentacion](src/imagenes/fotoPresentacion.jpeg)
 ### *Cosas sobre mi* ###
 - Soy desempleada.
 - Soy una estudiante de Licenciatura en gestion de las tecnologias de la informacion. 
@@ -19,4 +19,4 @@ java (basico) ***creo yo***
 #### ***Me podes Contactar por:*** ####
 Email: [karenpelozo98@gmail.com](karenpelozo98@gmail.com)
 
- tel: [+549 1150977511](blank:#https://api.whatsapp.com/send?phone=5491150977511)
+ tel: [1150977511](blank:#https://api.whatsapp.com/send?phone=5491150977511)
