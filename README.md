@@ -1,7 +1,7 @@
  #  **Hola Soy Karen**  # 
  ### *esta es mi primera presentacion en gitHub* ###
 #### esta es una foto mia  \(n 3 n)/ ####
-![fotoPresentacion](/src/imagenes/fotoPresentacion.jpeg)
+![fotoPresentacion.jpeg](/src/imagenes/fotoPresentacion.jpeg)
 ### *Cosas sobre mi* ###
 - Soy desempleada.
 - Soy una estudiante de Licenciatura en gestion de las tecnologias de la informacion. 
