@@ -8,15 +8,16 @@
 - Suelo estar mucho tiempo en la pc.
 - Me gusta programar.
 
-### Mis Hobbies ###
+### Mis Cosas Favoritas ###
 - Jugar a los videos Juegos
 - Mirar videos por internet
-- y Dentro de poco voy a hacer wushu
+- Tomar mates con mis familiares y amigos
+- Comer torta Selva negra 
 
 ### ***Lenguaje Que Manejo*** ###
 java (basico) ***creo yo***
 
 #### ***Me podes Contactar por:*** ####
-Email: [karenpelozo98@gmail.com](karenpelozo98@gmail.com)
+Email: [karenpelozo98@gmail.com](mailto:karenpelozo98@gmail.com)
 
- tel: [1150977511](tel:blank:#https://api.whatsapp.com/send?phone=5491150977511)
+tel: [1150977511](tel:+5491150977511)
