@@ -20,4 +20,4 @@ java (basico) ***creo yo***
 #### ***Me podes Contactar por:*** ####
 Email: [karenpelozo98@gmail.com](mailto:karenpelozo98@gmail.com)
 
-tel: [1150977511](tel:+5491150977511)
+ cel: [+5491150977511](blank:#https://api.whatsapp.com/send?phone=5491150977511)
