@@ -1,0 +1,20 @@
+{
+  "name": "pres",
+  "version": "1.0.0",
+  "description": "![fotoPresentacion.jpeg](imagenes/fotoPresentacion.jpeg)\r ### *Cosas sobre mi* ###\r - Soy desempleada.\r - Soy una estudiante de Licenciatura en gestion de las tecnologias de la informacion. \r - Suelo estar mucho tiempo en la pc.\r - Me gusta programar.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karenPelozo/PresentacionGitHub-karen.git"
+  },
+  "author": "karen pelzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karenPelozo/PresentacionGitHub-karen/issues"
+  },
+  "homepage": "https://github.com/karenPelozo/PresentacionGitHub-karen#readme"
+}
